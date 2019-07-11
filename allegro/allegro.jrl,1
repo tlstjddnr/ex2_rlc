@@ -1,0 +1,34 @@
+\t (00:00:05) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Thu Jul 11 09:10:11 2019
+\t (00:00:05)         Host=USER-PC User=user Pid=4896 CPUs=4
+\t (00:00:05) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 29310
+\i (00:00:06) generaledit 
+\i (00:00:12) trapsize 1318
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\i (00:00:15) opencd C:/Users/user/Desktop/workspace/ex2_rlc/allegro/ex2_rlc.brd 
+\t (00:00:15) Opening existing design...
+\i (00:00:15) trapsize 790
+\d (00:00:15) Design opened: C:/Users/user/Desktop/workspace/ex2_rlc/allegro/ex2_rlc.brd
+\i (00:00:15) generaledit 
+\i (00:00:16) pick grid -18.387 37.108
+\t (00:00:16) last pick:  -18.415 37.084
+\i (00:00:19) pick grid -13.645 16.401
+\t (00:00:19) last pick:  -13.589 16.383
+\i (00:00:25) trapsize 814
+\i (00:00:26) trapsize 635
+\i (00:00:27) pick grid 88.778 32.921
+\t (00:00:27) last pick:  88.773 32.893
+\i (00:00:28) roam start
+\i (00:00:28) roam x 32
+\i (00:00:28) roam y -96
+\i (00:00:28) roam x 48
+\i (00:00:28) roam y -64
+\i (00:00:29) roam end
+\i (00:01:32) pick grid 32.098 58.658
+\t (00:01:32) last pick:  32.131 58.674
+\i (00:01:38) exit 
+\t (00:01:38)     Journal end - Thu Jul 11 09:11:45 2019
